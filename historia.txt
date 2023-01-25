@@ -1,3 +1,4 @@
 edwing leon palencia 
 Edad: 23 años 
 equipo: atletico bucaramanga
+color: negro
